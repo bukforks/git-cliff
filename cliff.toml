@@ -30,4 +30,4 @@ trim = true
 # regex for skipping tags
 skip_tags = ""
 # regex for ignoring tags
-ignore_tags = ""
+ignore_tags = ".*beta"
